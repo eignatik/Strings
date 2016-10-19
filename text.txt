@@ -1,0 +1,1 @@
+This is some text. We have to use lowercase , uppercase , latin characters , and  numbers. \n What about text?! About associated arrays. It looks like a A:B. \t We can use numbers like 1, 2, 3, and so on;
